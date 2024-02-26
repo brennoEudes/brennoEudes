@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 
 # Brenno Eudes
@@ -9,11 +9,11 @@ Over a decade of selling digital products as a marketer, I am now capable of cre
 
 I'm a creative and results-driven professional, passionate about crafting seamless digital experiences at the intersection of frontend development and marketing strategy, to drive business growth.
 
-## Tecnologies
+### Tecnologies
 JavaScript | HTML/CSS | React.js | TypeScript | Node.js | SASS/SCSS | Responsive Design | CI/CD | Next.js | Git | Github | GitLab | VSCode.
 
 
-## Get in touch
+### Get in touch
 - LinkedIn: https://www.linkedin.com/in/brennoeudes/
 - email: dev.brennoeudes@gmail.com
   
