@@ -16,6 +16,8 @@ JavaScript | HTML/CSS | React.js | TypeScript | Node.js | SASS/SCSS | Responsive
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/brennoeudes/
 - email: dev.brennoeudes@gmail.com
+
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USERNAME&show_icons=true&locale=en&layout=compact" alt="SEU_USERNAME" /></p>
   
 <!--
 **brennoEudes/brennoEudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
