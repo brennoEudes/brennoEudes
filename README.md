@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Brenno Eudes.</h1>
-<h3 style="font-style: italic">"Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!"</h3>
+<h3 style="italic">"Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!"</h3>
 
 ## About
 Hi! I am Brenno Eudes, Brazilian, and Innovative Frontend Developer & Marketing Strategist.
