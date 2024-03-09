@@ -1,14 +1,7 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Brenno Eudes.</h1>
+<h3>"Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!"</h3>
 
-<h1 align="center">Hi 👋, I'm Brenno Eudes.</h1>
-<h3 align="center">Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!</h3>
-
-# Brenno Eudes
-
-Hi! I am Brenno Eudes!
-
-Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!
-
+## About
 I'm a creative and results-driven professional, passionate about crafting seamless digital experiences at the intersection of frontend development and marketing strategy, to drive business growth.
 
 ## Tecnologies
