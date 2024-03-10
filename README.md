@@ -2,6 +2,8 @@
 <h3 style="italic">"Over a decade of selling digital products as a marketer, I am now capable of creating new ones as a front-end developer!"</h3>
 
 ## About
+Hi! I am Innovative Frontend Developer & Marketing Strategist!
+
 I'm a creative and results-driven professional, passionate about crafting seamless digital experiences at the intersection of frontend development and marketing strategy, to drive business growth. Some examples include:
 
 - Transformed Portugal Tech Week's digital presence by updating 17+ responsive webpages, enhancing user engagement and festival visibility;
