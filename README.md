@@ -16,7 +16,7 @@ Let's connect and discuss how I can bring value to your team!
 
 ## Tecnologies & Skills
 
-JavaScript | HTML/CSS | React.js | TypeScript | Node.js | SASS/SCSS | Tailwind CSS | Figma | Responsive Design | Angular | CI/CD | Next.js | Git | Github | GitLab | VSCode.
+JavaScript | HTML/CSS | React.js | TypeScript | Node.js | SASS/SCSS | Tailwind CSS | Figma | Responsive Design | Angular | CI/CD | Next.js | MongoDB | Git | Github | GitLab | VSCode.
 
 ## Most used languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brennoeudes&show_icons=true&locale=en&layout=compact" alt="brennoeudes" /></p>
